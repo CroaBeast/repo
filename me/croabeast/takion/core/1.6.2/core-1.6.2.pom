@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>me.croabeast.takion</groupId>
+  <artifactId>core</artifactId>
+  <version>1.6.2</version>
+  <packaging>jar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>me.croabeast.takion</groupId>
+      <artifactId>common</artifactId>
+      <version>1.6.2</version>
+    </dependency>
+  </dependencies>
+</project>
