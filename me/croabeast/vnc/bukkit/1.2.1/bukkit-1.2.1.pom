@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>me.croabeast.vnc</groupId>
+  <artifactId>bukkit</artifactId>
+  <version>1.2.1</version>
+  <packaging>jar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>me.croabeast.vnc</groupId>
+      <artifactId>core</artifactId>
+      <version>1.2.1</version>
+    </dependency>
+  </dependencies>
+</project>
