@@ -3,11 +3,11 @@
   <groupId>me.croabeast.takion</groupId>
   <artifactId>shaded</artifactId>
   <versioning>
-    <latest>1.6.5</latest>
-    <release>1.6.5</release>
+    <latest>1.6.6</latest>
+    <release>1.6.6</release>
     <versions>
-      <version>1.6.5</version>
+      <version>1.6.6</version>
     </versions>
-    <lastUpdated>20260530024833</lastUpdated>
+    <lastUpdated>20260530032155</lastUpdated>
   </versioning>
 </metadata>
