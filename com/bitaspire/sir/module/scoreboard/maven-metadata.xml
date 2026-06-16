@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.bitaspire.sir.command</groupId>
-  <artifactId>color</artifactId>
+  <groupId>com.bitaspire.sir.module</groupId>
+  <artifactId>scoreboard</artifactId>
   <versioning>
     <latest>2.4.0</latest>
     <release>2.4.0</release>
