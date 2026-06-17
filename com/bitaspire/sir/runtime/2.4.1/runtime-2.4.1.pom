@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.bitaspire.sir</groupId>
+  <artifactId>runtime</artifactId>
+  <version>2.4.1</version>
+  <packaging>jar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.bitaspire.sir</groupId>
+      <artifactId>api</artifactId>
+      <version>2.4.1</version>
+    </dependency>
+  </dependencies>
+</project>
