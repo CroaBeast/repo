@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>REPO</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+      margin: 0;
+      color: #1f2933;
+      background: #f6f8fa;
+    }
+
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 48px 20px;
+    }
+
+    pre {
+      overflow-x: auto;
+      padding: 16px;
+      border-radius: 6px;
+      background: #0f172a;
+      color: #e5e7eb;
+    }
+
+    code {
+      font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>REPO</h1>
+    <p>Repository to host public Maven dependencies.</p>
+
+    <h2>Maven</h2>
+    <pre><code>&lt;repositories&gt;
+    &lt;repository&gt;
+        &lt;id&gt;croabeast-repo&lt;/id&gt;
+        &lt;url&gt;https://croabeast.github.io/repo/&lt;/url&gt;
+    &lt;/repository&gt;
+&lt;/repositories&gt;</code></pre>
+
+    <h2>Gradle</h2>
+    <pre><code>repositories {
+    maven {
+        url "https://croabeast.github.io/repo/"
+    }
+}</code></pre>
+  </main>
+</body>
+</html>
