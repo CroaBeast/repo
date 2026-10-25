@@ -1,0 +1,38 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "me.croabeast.inventory",
+    "module": "framework",
+    "version": "0.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "framework-0.1.0.jar",
+          "url": "framework-0.1.0.jar",
+          "size": 1767386,
+          "sha512": "6ebc96c3bd5fea9188622551361041231b5a80643b2107e8d67a181590ed6eadd863941336eab17cbe6c0ad50dd815a460c499c16acf171d49247e550504f4d5",
+          "sha256": "cf1d9141ede27890067c26ed7ba4891864b93ad6286216f211f3c0810d3f483b",
+          "sha1": "c0b8607f0f8e7e8f8d284a0eb4f8e9f05bfc8ae0",
+          "md5": "406bc510fe35b587ecbda9557f209617"
+        }
+      ]
+    }
+  ]
+}
